@@ -1,0 +1,89 @@
+d100Min,d100Max,Magic Item
+1,11,+2 Weapon
+12,14,SubTableG
+15,15,Adamantine armor (breastplate)
+16,16,Adamantine armor (splint)
+17,17,Amulet of health
+18,18,Armor of vulnerability
+19,19,Arrow-catching shield
+20,20,Belt of dwarvenkind
+21,21,Belt of hill giant strength
+22,22,Berserker axe
+23,23,Boots of levitation
+24,24,Boots of speed
+25,25,Bowl of commanding water elementals
+26,26,Bracers of defense
+27,27,Brazier of commanding fire elementals
+28,28,Cape of the mountebank
+29,29,Censer of controlling air elementals
+30,30,Armor: +1 chain mail
+31,31,Armor of resistance (chain mail)
+32,32,Armor of resistance (chain shirt)
+33,33,Armor:+ 1 chain shirt
+34,34,Cloak of displacement
+35,35,Cloak of the bat
+36,36,Cube of force
+37,37,Daern's instant fortress
+38,38,Dagger of venom
+39,39,Dimensional shackles
+40,40,Dragon slayer
+41,41,Elven chain
+42,42,Flame tongue
+43,43,Gem of seeing
+44,44,Giant slayer
+45,45,Clamoured studded leather
+46,46,Helm of teleportation
+47,47,Horn of blasting
+48,48,Horn of Valhalla (silver or brass)
+49,49,Instrument of the bards (Canaithmandolin)
+50,50,Instrument ofthe bards (Cii lyre)
+51,51,loun stone (awareness)
+52,52,loun stone (protection)
+53,53,loun stone (reserve)
+54,54,loun stone (sustenance)
+55,55,Iron bands of Bilarro
+56,56,Armor: + 1 leather
+57,57,Armor of resistance (leather)
+58,58,Mace of disruption
+59,59,Mace of smiting
+60,60,Mace of terror
+61,61,Mantle of spell resistance
+62,62,Necklace of prayer beads
+63,63,Periapt of proof against poison
+64,64,Ring of animal influence
+65,65,Ring of evasion
+66,66,Ring of feather falling
+67,67,Ring of free action
+68,68,Ring of protection
+69,69,Ring of resistance
+70,70,Ring of spell storing
+71,71,Ring of the ram
+72,72,Ring of X-ray vision
+73,73,Robe of eyes
+74,74,Rod of rulership
+75,75,+2 Rod of the pact keeper
+76,76,Rope of entanglement
+77,77,Armor: +1 scale mail
+78,78,Armor of resistance (scale mail)
+79,79,+2 Shield
+80,80,Shield of missile attraction
+81,81,Staff of charming
+82,82,Staff of healing
+83,83,Staff of swarming insects
+84,84,Staff of the woodlands
+85,85,Staff of withering
+86,86,Stone of controlling earthelementals
+87,87,Sun blade
+88,88,Sword of life stealing
+89,89,Sword of wounding
+90,90,Tentacle rod
+91,91,Vicious weapon
+92,92,Wand of binding
+93,93,Wand of enemy detection
+94,94,Wand of fear
+95,95,Wand of fireballs
+96,96,Wand of lightning bolts
+97,97,Wand of paralysis
+98,98,+2 Wand of the war mage
+99,99,Wand of wonder
+100,100,Wings of flying
